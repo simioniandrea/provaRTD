@@ -25,5 +25,7 @@ Contents
 
 .. toctree::
 
+   usage
+   api
 
-.. openapi:: openapi.yml
+.. openapi:: specs/openapi.yml
