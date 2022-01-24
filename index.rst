@@ -12,9 +12,9 @@ note::
 Contents
 --------
 
-toctree::
+.. toctree::
 
    usage
    api
 
-openapi:: specs/openapi.yml
+.. openapi:: specs/openapi.yml
